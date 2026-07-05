@@ -86,15 +86,6 @@ The generated CSV can be used for:
 
 ---
 
-## Future Improvements
-
-- Support for additional Indian languages
-- Automatic detection of electoral roll layouts
-- Faster parallel OCR processing
-- GUI/Desktop application
-- Direct Excel export
-- Database integration
-
 ---
 
 ## License
